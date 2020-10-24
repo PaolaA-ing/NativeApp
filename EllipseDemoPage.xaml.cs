@@ -1,6 +1,6 @@
 ﻿using Xamarin.Forms;
 
-namespace ShapesDemos
+namespace NativeApp
 {
     public partial class EllipseDemoPage : ContentPage
     {
